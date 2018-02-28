@@ -1,5 +1,5 @@
 # Economy in Videogames
-“I am <https://www.linkedin.com/in/josep-serra-409431146>(Josep Pi), student of the <https://www.citm.upc.edu/ing/estudis/graus-videojocs/>(Bachelor’s Degree in Video Games by UPC at CITM). This content is generated for the second year’s subject Project 2, under supervision of lecturer <https://es.linkedin.com/in/ricardpillosu>(Ricard Pillosu).”
+“I am [Josep Pi](<https://www.linkedin.com/in/josep-serra-409431146>), student of the [Bachelor’s Degree in Video Games by UPC at CITM](<https://www.citm.upc.edu/ing/estudis/graus-videojocs/>). This content is generated for the second year’s subject Project 2, under supervision of lecturer [Ricard Pillosu](<https://es.linkedin.com/in/ricardpillosu>).”
 
 ## How could we define Economy in a game?
 Economy is a game mechanic that can create a strong joint between all the other mechanics that the game has to offer giving you a strong sense of progress in lots of differents aspects and feeling of acomplishment. It also does motivate you to keep improving and it's a really powerful mechanic that lets you have a set of tools that will improve the player's experience.
