@@ -33,6 +33,11 @@ Here the progression instead of begin based how weak you are at the begining and
 ## So, we give them money, now what?
 Of course, why would you like to have money if you can't spend it? Finding ways to make those players use that money is as important as how much they earn during the game. The things they can spend the money on should be more than the ammount they earn. That way, they will always want more money in order to get what they are aiming for. Those reasons needs to have a big impact in their economic or military power making them a resonable choice when improving your characters/empire. They also need to be equally important having a realtionship between the the damage you can make/the money you can earn while doing the investmen.
 
+## But giving that much money may cause some trouble?
+Yes, it can cause inflation in the game. It means that the value of the currency used inside the game will be diminished between the players and the prices will keep growing until the point is not worth anything and people will start using more valuable objects instead which defeats all the purpose of the currency.
+
+The inflation of a game is the avarage of balance of the people that is currenty playing the game.
+
 ## But, what price should we put in those upgrade which seem fair?
 Lots of different studies have been done in this aspect and still, we can't find a method in which we can follow in order to have a balanced progression economy. What we can do is, again, use maths in order to make decisions about this subject. Items price should have a relation with its stats. A good start point for swords would be something like this:
 
@@ -48,3 +53,5 @@ See where I'm going? We can make a scene with the same enemy type, number of ene
 
 In order to put a price to the special caracteristic of an item we would use the same method, for example. Armor: each time an enemy attacks you with this armor on, a 25% of the enemy damage will return to them. This will be added to the total damage the item will do during the fight and will be taken in to account when puting a price tag to the item.
 
+## Why should I even bother? Is it really that worth the effort?
+Remember that graphic that you've seen like a thousen times already? The one that shows the pacing in a story? Well games are exactly the same. That curve means everything for the developers who are trying to make their players stick to their game for a while. The economy plays a big role in this chart along side with other mechanics. It also makes the experience more pleasant over all since they feel they've complish something when they finish the game, looking back and seen how they progress or acomplished something really hard to do is a really rewarding feeling.
