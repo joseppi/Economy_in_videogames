@@ -30,3 +30,21 @@ Here the progression instead of begin based how weak you are at the begining and
 
 * **The Explorers** are not as common in this kind of games, but it's worth mentioning them because they make the experience for the others more enjoyable. Having a really deep economy with lots of different choices they can take are the only way to make them happy. Decisions that will matter during the fight and complex relationships between the units and the economic buildings.
 
+## So, we give them money, now what?
+Of course, why would you like to have money if you can't spend it? Finding ways to make those players use that money is as important as how much they earn during the game. The things they can spend the money on should be more than the ammount they earn. That way, they will always want more money in order to get what they are aiming for. Those reasons needs to have a big impact in their economic or military power making them a resonable choice when improving your characters/empire. They also need to be equally important having a realtionship between the the damage you can make/the money you can earn while doing the investmen.
+
+## But, what price should we put in those upgrade which seem fair?
+Lots of different studies have been done in this aspect and still, we can't find a method in which we can follow in order to have a balanced progression economy. What we can do is, again, use maths in order to make decisions about this subject. Items price should have a relation with its stats. A good start point for swords would be something like this:
+
+Price = Damage done + Damage prevented + Damage Healed.
+
+Now, we have 5 variables there if we also take in to account the time you use for that object. Lets go one by one and see how much they can change based on other variables (yay more variables!)
+
+Damage Done = enemy type + number of enemies + player skill + stats of the item + time.
+Damage Prevented = enemy type + number of enemies + player skill + stats of the item + time.
+Damage Healed = player skill + stats of the item + time.
+
+See where I'm going? We can make a scene with the same enemy type, number of enemies, player and stats. Record the those variables during the same period of time and make an estimate. Note that this is not a perfect method, but it's the closes you can get in order to balance things based on price.
+
+In order to put a price to the special caracteristic of an item we would use the same method, for example. Armor: each time an enemy attacks you with this armor on, a 25% of the enemy damage will return to them. This will be added to the total damage the item will do during the fight and will be taken in to account when puting a price tag to the item.
+
