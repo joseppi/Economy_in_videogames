@@ -33,10 +33,10 @@ Here the progression instead of begin based how weak you are at the begining and
 ## So, we give them money, now what?
 Of course, why would you like to have money if you can't spend it? Finding ways to make those players use that money is as important as how much they earn during the game. The things they can spend the money on should be more than the ammount they earn. That way, they will always want more money in order to get what they are aiming for. Those reasons needs to have a big impact in their economic or military power making them a resonable choice when improving your characters/empire. They also need to be equally important having a realtionship between the the damage you can make/the money you can earn while doing the investmen.
 
-## But giving that much money may cause some trouble?
-Yes, it can cause inflation in the game. It means that the value of the currency used inside the game will be diminished between the players and the prices will keep growing until the point is not worth anything and people will start using more valuable objects instead which defeats all the purpose of the currency.
+## But giving that much money may cause some trouble...
+Yes, it can cause inflation in the game. It means that the value of the currency used inside the game will be diminished between the players and the prices will keep growing up to the point is not worth anything and people will start using more valuable objects instead. Defeating all the purpose of the currency you've implemented.
 
-The inflation of a game is the avarage of balance of the people that is currenty playing the game.
+The inflation of a game is the avarage of the money people has saved.
 
 ## But, what price should we put in those upgrade which seem fair?
 Lots of different studies have been done in this aspect and still, we can't find a method in which we can follow in order to have a balanced progression economy. What we can do is, again, use maths in order to make decisions about this subject. Items price should have a relation with its stats. A good start point for swords would be something like this:
@@ -55,3 +55,22 @@ In order to put a price to the special caracteristic of an item we would use the
 
 ## Why should I even bother? Is it really that worth the effort?
 Remember that graph that you've seen like a thousen times already? The one that shows the pacing in a story? Well games are exactly the same. That curve means everything for the developers who are trying to make their players stick to their game for a while. The economy plays a big role in this chart along side with other mechanics. It also makes the experience more pleasant over all since they feel they've acomplish something when they finish the game, looking back and seen how they progress.
+
+## Bibliography
+Extra Credits How to Manage Inflation in Virtual Economies: https://www.youtube.com/watch?v=W39TtF14i8I&t=4s
+
+Extra Credits MMO Economies - Hyperinflation, Reserve Currencies:
+https://www.youtube.com/watch?v=sumZLwFXJqE
+
+Extra Credits Balancing MMO Ecosystem:
+https://www.youtube.com/watch?v=1drDuaQXm_U
+
+GDC inside The Witcher 3’s Crafting-Based Economy
+https://www.youtube.com/watch?v=SdYSRkXqhyk&t=5s
+
+Gamers Toolkit - What Capcom Didn't Tell You About Resident Evil 4
+https://www.youtube.com/watch?v=zFv6KAdQ5SE
+
+Pacing - Extra Credits
+https://www.youtube.com/watch?v=5LScL4CWe5E
+
