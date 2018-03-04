@@ -15,9 +15,9 @@ So, the main concern is, how can we archive that sense of progress in which the 
 ### RPG
 The economic progress is one of the strongest bases of the RPGs in general. Some of them even go one step further and make the entire game revolve in their economy mechanic such as EVE or Tibia.
 We can use maths in order to create an interesting curve and to have a reference when we want to create that progression. 
-With the help of Marc Garcia and Lluis Uescas we've created a tool in which you can get some reference in order to create an interestinc economic curve for the user.
+With the help of Marc Garcia and Lluis Uescas we've created a tool in which you can get some reference in order to create an interesting economic curve for the user.
 
-Note the curve you want to create should be aiming for earning low money at the begining and a lot at the end of the game so it keeps.
+Note the curve you want to create should be aiming for earning low money at the begining and a lot at the end of the game so it keeps the interest of the player in the process.
 
 You can always spice things up a bit by letting the player from time to time earn some valuables items in which will boost his economic income and make them feel they've earned a lot. If you can give it as a reward for something really hard to acomplish or taking high risk (or even better, making them feel they are taking a high risk) the more difference is between the ammount they win and how much they've got, the better they will feel. But this will cause some trouble that we will explain later on.
 
