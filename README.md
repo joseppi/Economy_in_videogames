@@ -39,6 +39,8 @@ Of course, why would you like to have money if you can't spend it? Finding ways 
 
 *Credits to Stephan Börzsönyi for his work in macroeconomics in virtual worlds. Link down below.*
 
+Each week, 24.7 million gold is introduced to the game for 700 players. The avarage of money per player is 35714 gold. This will cause trouble.
+
 ## But giving that much money may cause some trouble...
 Yes, it can cause inflation in the game. It means that the value of the currency used inside the game will be diminished between the players and the prices will keep growing up to the point is not worth anything and people will start using more valuable objects instead. Defeating all the purpose of the currency you've implemented.
 
