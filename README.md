@@ -12,7 +12,7 @@ So, the main concern is, how can we archive that sense of progress in which the 
 The economic progress is one of the strongest bases of the RPGs in general. Some of them even go one step further and make the entire game revolve in their economy mechanic such as EVE or Tibia.
 We can use maths in order to create an interesting curve and to have a reference when we want to create that progression. 
 I've created a very simple tool in which you can get some reference in order to create an interestinc economic curve for the user.
-You can find this tool here: [Click me](https://docs.google.com/spreadsheets/d/10UDd0ExogH29ZdufqrceJjp1WT0-Bghc0ELqBsWkkNU/edit#gid=0)
+You can find this tool here: [Click me](https://docs.google.com/spreadsheets/d/10UDd0ExogH29ZdufqrceJjp1WT0-Bghc0ELqBsWkkNU/edit?usp=sharing)
 
 Note the curve you want to create should be aiming for earning low money at the begining and a lot at the end of the game so it keeps.
 
