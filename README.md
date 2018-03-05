@@ -77,12 +77,13 @@ You can find the tool mentioned above here: [Click me](https://docs.google.com/s
 
 
 ## Bibliography
-Extra Credits How to Manage Inflation in Virtual Economies: https://www.youtube.com/watch?v=W39TtF14i8I&t=4s
+Extra Credits How to Manage Inflation in Virtual Economies
+https://www.youtube.com/watch?v=W39TtF14i8I&t=4s
 
-Extra Credits MMO Economies - Hyperinflation, Reserve Currencies:
+Extra Credits MMO Economies - Hyperinflation, Reserve Currencies
 https://www.youtube.com/watch?v=sumZLwFXJqE
 
-Extra Credits Balancing MMO Ecosystem:
+Extra Credits Balancing MMO Ecosystem
 https://www.youtube.com/watch?v=1drDuaQXm_U
 
 GDC inside The Witcher 3’s Crafting-Based Economy
